@@ -1,0 +1,10 @@
+﻿namespace Project_PBO
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Hello, World!");
+        }
+    }
+}
