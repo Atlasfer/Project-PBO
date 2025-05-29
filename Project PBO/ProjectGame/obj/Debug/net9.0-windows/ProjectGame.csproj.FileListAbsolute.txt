@@ -1,0 +1,17 @@
+D:\Materi Kuliah\Semester 2\Final Project\PBO\Project PBO\ProjectGame\bin\Debug\net9.0-windows\ProjectGame.exe
+D:\Materi Kuliah\Semester 2\Final Project\PBO\Project PBO\ProjectGame\bin\Debug\net9.0-windows\ProjectGame.deps.json
+D:\Materi Kuliah\Semester 2\Final Project\PBO\Project PBO\ProjectGame\bin\Debug\net9.0-windows\ProjectGame.runtimeconfig.json
+D:\Materi Kuliah\Semester 2\Final Project\PBO\Project PBO\ProjectGame\bin\Debug\net9.0-windows\ProjectGame.dll
+D:\Materi Kuliah\Semester 2\Final Project\PBO\Project PBO\ProjectGame\bin\Debug\net9.0-windows\ProjectGame.pdb
+D:\Materi Kuliah\Semester 2\Final Project\PBO\Project PBO\ProjectGame\obj\Debug\net9.0-windows\ProjectGame.Resource.resources
+D:\Materi Kuliah\Semester 2\Final Project\PBO\Project PBO\ProjectGame\obj\Debug\net9.0-windows\ProjectGame.csproj.GenerateResource.cache
+D:\Materi Kuliah\Semester 2\Final Project\PBO\Project PBO\ProjectGame\obj\Debug\net9.0-windows\ProjectGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\Materi Kuliah\Semester 2\Final Project\PBO\Project PBO\ProjectGame\obj\Debug\net9.0-windows\ProjectGame.AssemblyInfoInputs.cache
+D:\Materi Kuliah\Semester 2\Final Project\PBO\Project PBO\ProjectGame\obj\Debug\net9.0-windows\ProjectGame.AssemblyInfo.cs
+D:\Materi Kuliah\Semester 2\Final Project\PBO\Project PBO\ProjectGame\obj\Debug\net9.0-windows\ProjectGame.csproj.CoreCompileInputs.cache
+D:\Materi Kuliah\Semester 2\Final Project\PBO\Project PBO\ProjectGame\obj\Debug\net9.0-windows\ProjectGame.sourcelink.json
+D:\Materi Kuliah\Semester 2\Final Project\PBO\Project PBO\ProjectGame\obj\Debug\net9.0-windows\ProjectGame.dll
+D:\Materi Kuliah\Semester 2\Final Project\PBO\Project PBO\ProjectGame\obj\Debug\net9.0-windows\refint\ProjectGame.dll
+D:\Materi Kuliah\Semester 2\Final Project\PBO\Project PBO\ProjectGame\obj\Debug\net9.0-windows\ProjectGame.pdb
+D:\Materi Kuliah\Semester 2\Final Project\PBO\Project PBO\ProjectGame\obj\Debug\net9.0-windows\ProjectGame.genruntimeconfig.cache
+D:\Materi Kuliah\Semester 2\Final Project\PBO\Project PBO\ProjectGame\obj\Debug\net9.0-windows\ref\ProjectGame.dll

@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "D:\\Materi Kuliah\\Semester 2\\Final Project\\PBO\\Project PBO\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{48ECD89C-A206-430C-8EBA-0C5251C063BA}|ProjectGame\\ProjectGame.csproj|d:\\materi kuliah\\semester 2\\final project\\pbo\\project pbo\\projectgame\\menuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48ECD89C-A206-430C-8EBA-0C5251C063BA}|ProjectGame\\ProjectGame.csproj|solutionrelative:projectgame\\menuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48ECD89C-A206-430C-8EBA-0C5251C063BA}|ProjectGame\\ProjectGame.csproj|d:\\materi kuliah\\semester 2\\final project\\pbo\\project pbo\\projectgame\\ingameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48ECD89C-A206-430C-8EBA-0C5251C063BA}|ProjectGame\\ProjectGame.csproj|solutionrelative:projectgame\\ingameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48ECD89C-A206-430C-8EBA-0C5251C063BA}|ProjectGame\\ProjectGame.csproj|d:\\materi kuliah\\semester 2\\final project\\pbo\\project pbo\\projectgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48ECD89C-A206-430C-8EBA-0C5251C063BA}|ProjectGame\\ProjectGame.csproj|solutionrelative:projectgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{48ECD89C-A206-430C-8EBA-0C5251C063BA}|ProjectGame\\ProjectGame.csproj|d:\\materi kuliah\\semester 2\\final project\\pbo\\project pbo\\projectgame\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{48ECD89C-A206-430C-8EBA-0C5251C063BA}|ProjectGame\\ProjectGame.csproj|solutionrelative:projectgame\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{48ECD89C-A206-430C-8EBA-0C5251C063BA}|ProjectGame\\ProjectGame.csproj|d:\\materi kuliah\\semester 2\\final project\\pbo\\project pbo\\projectgame\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{48ECD89C-A206-430C-8EBA-0C5251C063BA}|ProjectGame\\ProjectGame.csproj|solutionrelative:projectgame\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{48ECD89C-A206-430C-8EBA-0C5251C063BA}|ProjectGame\\ProjectGame.csproj|d:\\materi kuliah\\semester 2\\final project\\pbo\\project pbo\\projectgame\\resource.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{48ECD89C-A206-430C-8EBA-0C5251C063BA}|ProjectGame\\ProjectGame.csproj|solutionrelative:projectgame\\resource.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +30,76 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "MainMenu.cs",
               "DocumentMoniker": "D:\\Materi Kuliah\\Semester 2\\Final Project\\PBO\\Project PBO\\ProjectGame\\MainMenu.cs",
               "RelativeDocumentMoniker": "ProjectGame\\MainMenu.cs",
               "ToolTip": "D:\\Materi Kuliah\\Semester 2\\Final Project\\PBO\\Project PBO\\ProjectGame\\MainMenu.cs",
               "RelativeToolTip": "ProjectGame\\MainMenu.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-28T09:41:00.586Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MenuForm.cs",
+              "DocumentMoniker": "D:\\Materi Kuliah\\Semester 2\\Final Project\\PBO\\Project PBO\\ProjectGame\\MenuForm.cs",
+              "RelativeDocumentMoniker": "ProjectGame\\MenuForm.cs",
+              "ToolTip": "D:\\Materi Kuliah\\Semester 2\\Final Project\\PBO\\Project PBO\\ProjectGame\\MenuForm.cs*",
+              "RelativeToolTip": "ProjectGame\\MenuForm.cs*",
+              "ViewState": "AgIAACYAAAAAAAAAAAAgwDIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T19:22:44.652Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "D:\\Materi Kuliah\\Semester 2\\Final Project\\PBO\\Project PBO\\ProjectGame\\Form1.cs",
-              "RelativeDocumentMoniker": "ProjectGame\\Form1.cs",
-              "ToolTip": "D:\\Materi Kuliah\\Semester 2\\Final Project\\PBO\\Project PBO\\ProjectGame\\Form1.cs [Design]",
-              "RelativeToolTip": "ProjectGame\\Form1.cs [Design]",
+              "Title": "InGameForm.cs",
+              "DocumentMoniker": "D:\\Materi Kuliah\\Semester 2\\Final Project\\PBO\\Project PBO\\ProjectGame\\InGameForm.cs",
+              "RelativeDocumentMoniker": "ProjectGame\\InGameForm.cs",
+              "ToolTip": "D:\\Materi Kuliah\\Semester 2\\Final Project\\PBO\\Project PBO\\ProjectGame\\InGameForm.cs",
+              "RelativeToolTip": "ProjectGame\\InGameForm.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwCgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-28T09:39:35.179Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-05-29T19:13:58.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Materi Kuliah\\Semester 2\\Final Project\\PBO\\Project PBO\\ProjectGame\\Program.cs",
+              "RelativeDocumentMoniker": "ProjectGame\\Program.cs",
+              "ToolTip": "D:\\Materi Kuliah\\Semester 2\\Final Project\\PBO\\Project PBO\\ProjectGame\\Program.cs",
+              "RelativeToolTip": "ProjectGame\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T19:00:30.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Resource.resx",
+              "DocumentMoniker": "D:\\Materi Kuliah\\Semester 2\\Final Project\\PBO\\Project PBO\\ProjectGame\\Resource.resx",
+              "RelativeDocumentMoniker": "ProjectGame\\Resource.resx",
+              "ToolTip": "D:\\Materi Kuliah\\Semester 2\\Final Project\\PBO\\Project PBO\\ProjectGame\\Resource.resx",
+              "RelativeToolTip": "ProjectGame\\Resource.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-05-29T18:58:11.498Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -1,0 +1,15 @@
+D:\Materi Kuliah\Semester 2\Final Project\PBO\Project PBO\Project PBO\bin\Debug\net9.0\Project PBO.exe
+D:\Materi Kuliah\Semester 2\Final Project\PBO\Project PBO\Project PBO\bin\Debug\net9.0\Project PBO.deps.json
+D:\Materi Kuliah\Semester 2\Final Project\PBO\Project PBO\Project PBO\bin\Debug\net9.0\Project PBO.runtimeconfig.json
+D:\Materi Kuliah\Semester 2\Final Project\PBO\Project PBO\Project PBO\bin\Debug\net9.0\Project PBO.dll
+D:\Materi Kuliah\Semester 2\Final Project\PBO\Project PBO\Project PBO\bin\Debug\net9.0\Project PBO.pdb
+D:\Materi Kuliah\Semester 2\Final Project\PBO\Project PBO\Project PBO\obj\Debug\net9.0\Project PBO.GeneratedMSBuildEditorConfig.editorconfig
+D:\Materi Kuliah\Semester 2\Final Project\PBO\Project PBO\Project PBO\obj\Debug\net9.0\Project PBO.AssemblyInfoInputs.cache
+D:\Materi Kuliah\Semester 2\Final Project\PBO\Project PBO\Project PBO\obj\Debug\net9.0\Project PBO.AssemblyInfo.cs
+D:\Materi Kuliah\Semester 2\Final Project\PBO\Project PBO\Project PBO\obj\Debug\net9.0\Project PBO.csproj.CoreCompileInputs.cache
+D:\Materi Kuliah\Semester 2\Final Project\PBO\Project PBO\Project PBO\obj\Debug\net9.0\Project PBO.sourcelink.json
+D:\Materi Kuliah\Semester 2\Final Project\PBO\Project PBO\Project PBO\obj\Debug\net9.0\Project PBO.dll
+D:\Materi Kuliah\Semester 2\Final Project\PBO\Project PBO\Project PBO\obj\Debug\net9.0\refint\Project PBO.dll
+D:\Materi Kuliah\Semester 2\Final Project\PBO\Project PBO\Project PBO\obj\Debug\net9.0\Project PBO.pdb
+D:\Materi Kuliah\Semester 2\Final Project\PBO\Project PBO\Project PBO\obj\Debug\net9.0\Project PBO.genruntimeconfig.cache
+D:\Materi Kuliah\Semester 2\Final Project\PBO\Project PBO\Project PBO\obj\Debug\net9.0\ref\Project PBO.dll
