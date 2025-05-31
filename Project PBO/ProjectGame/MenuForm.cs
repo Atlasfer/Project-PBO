@@ -38,7 +38,7 @@ namespace ProjectGame
 
             OptionButton = new Button
             {
-                Text = "Options",
+                Text = "Restart",
                 Location = new Point(40, 95),
                 Size = new Size(100, 50)
             };
